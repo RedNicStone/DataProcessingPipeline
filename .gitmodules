@@ -1,0 +1,9 @@
+[submodule "lib/gnuplot"]
+	path = lib/gnuplot
+	url = https://git.code.sf.net/p/gnuplot/gnuplot-main
+[submodule "lib/gnuplot-iostream"]
+	path = lib/gnuplot-iostream
+	url = https://github.com/dstahlke/gnuplot-iostream.git
+[submodule "lib/rapidcsv"]
+	path = lib/rapidcsv
+	url = https://github.com/d99kris/rapidcsv.git
